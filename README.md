@@ -4,7 +4,6 @@ CppCon 2022 Presentation Materials
 https://github.com/CppCon/CppCon2022 is the canonical location for presentations
 and code from [CppCon 2022](http://cppcon.org).
 
-[For Speakers: Submitting Materials](Submitting.md)
 # Index of Materials
 
 ## Presentations
