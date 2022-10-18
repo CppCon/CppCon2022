@@ -10,7 +10,7 @@ and code from [CppCon 2022](http://cppcon.org).
 
 - [“It’s A Bug Hunt” - Armor Plate Your Unit Tests](Presentations/its_a_bug_hunt_armor_plate_your_unit_tests__dave_steffen__cppcon_2022.pdf) by Dave Steffen
 - [10 Years of Meeting C++](Presentations/10_years_of_meeting_cpp__jens_weller__cppcon_2022.pdf) by Jens Weller
-- [A Faster Serialization Library Based on Compile-time Reflection and C++ 20](Presentations/a_faster_serialization_library_based_on_compile-time_reflection_and_cpp20__yu_qi__cppcon_2022.pdf) by Yu Qi
+- [A Faster Serialization Library Based on Compile-time Reflection and C++ 20](Presentations/a_faster_serialization_library_based_on_compile_time_reflection_and_cpp20__yu_qi__cppcon_2022.pdf) by Yu Qi
 - [A Pattern Language for Expressing Concurrency](Presentations/a_pattern_language_for_expressing_concurrency__lucian_radu_teodorescu__cppcon_2022.pdf) by Lucian Radu Teodorescu
 - [A Tour of C++ Recognised User Type Categories](Presentations/a_tour_of_cpp_recognised_user_type_categories__nina_ranns__cppcon_2022.pdf) by Nina Ranns
 - [Aliasing - Risks, Opportunities and Techniques](Presentations/aliasing_risks_opportunities_and_techniques__roi_barkan__cppcon_2022.pdf) by Roi Barkan
