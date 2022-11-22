@@ -19,7 +19,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [Back to Basics - RAII](Presentations/back_to_basics_raii__andre_kostur__cppcon_2022.pdf) by Andre Kostur
 - [Back to Basics - Smart Pointers](Presentations/back_to_basics_smart_pointers__david_olsen__cppcon_2022.pdf) by David Olsen
 - [Back to Basics - Templates](Presentations/back_to_basics_templates__nicolai_josuttis__cppcon_2022.pdf) by Nicolai Josuttis
-- [Back to Basics - Testing](Presentations/back_to_basics_testing__amir_kirsh__cppcon_2022.pdf) by Amir Kirsh
+- [Back to Basics - Testing](Presentations/back_to_basics_testing__roth_michaels__cppcon_2022.pdf) by Roth Michaels
 - [Back to Basics - Value Semantics](Presentations/back_to_basics_value_semantics__klaus_iglberger__cppcon_2022.pdf) by Klaus Iglberger
 - [Breaking Dependencies - The Visitor Design Pattern](Presentations/breaking_dependencies_the_visitor_design_pattern__klaus_iglberger__cppcon_2022.pdf) by Klaus Iglberger
 - [Breaking Dependencies - Type Erasure - The Implementation Details](Presentations/breaking_dependencies_type_erasure_the_implementation_details__klaus_iglberger__cppcon_2022.pdf) by Klaus Iglberger
