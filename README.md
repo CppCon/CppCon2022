@@ -32,6 +32,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [Concurrency TS 2 Use Cases and Future Direction](Presentations/concurrency_ts_2_use_cases_and_future_direction__michael_wong__cppcon_2022.pdf) by Michael Wong, Maged Michael, Paul McKenney
 - [Cross-Building Strategies in the Age of C++ Package Managers](Presentations/cross_building_strategies_in_the_age_of_cpp_package_managers__luis_caro_campos__cppcon_2022.pdf) by Luis Caro Campos
 - [Fast, High-Quality Pseudo-Random Numbers for Non-Cryptographers](Presentations/fast_high_quality_pseudo_random_numbers_for_non_cryptographers__roth_michaels__cppcon_2022.pdf) by Roth Michaels
+- [Fast C++ using SIMD Types with Generic Lambdas and Filters](Presentations/fast_cpp_using_simd_types_with_generic_lambdas_and_filters__andrew_drakeford__cppcon_2022.pdf) by Andrew Drakeford
 - [From Templates to Concepts - The Amazing Journey of Metaprogramming](Presentations/from_templates_to_concepts_the_amazing_journey_of_metaprogramming__alex_dathskovsky__cppcon_2022.pdf) by Alex Dathskovsky
 - [Generating Parsers in C++ with Maphoon - Part 1 of 2](Presentations/generating_parsers_in_cpp_with_maphoon_part_1_of_2__hans_de_nivelle__cppcon_2022.pdf) by Hans de Nivelle
 - [Generating Parsers in C++ with Maphoon - Part 2 of 2](Presentations/generating_parsers_in_cpp_with_maphoon_part_2_of_2__hans_de_nivelle__cppcon_2022.pdf) by Hans de Nivelle
