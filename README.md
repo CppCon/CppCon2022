@@ -44,6 +44,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [How Microsoft Uses C++ to Deliver Office - Huge Size, Small Components](Presentations/How-Microsoft-Uses-C-to-Deliver-Office-Zachary-Henkel-CppCon-2022.pdf) by Zachary Henkel
 - [HPX - A C++ Library for Parallelism and Concurrency](Presentations/HPX-A-C-Standard-Library-for-Parallelism-and-Concurrency-CppCon-2022-1.pdf) by Hartmut Kaiser
 - [import CMake, CMake and C++20 Modules](Presentations/import_cmake_cmake_and_cpp20_modules.pdf) by Bill Hoffman
+- [Killing C++ Serialization Overhead & Complexity](/Killing-C%2B%2B-Serialization-Overhead-%26-Complexity-EyalZedaka.pdf) by Eyal Zedaka
 - [Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All?](Presentations/greg_law_cppcon_2022.odp) by Greg Law
 - [Managing External API’s in Enterprise systems](Presentations/ManagingApis3c.pdf) by Pete Muldoon
 - [MDSPAN - A Deep Dive Spanning C++, Kokkos & SYCL](Presentations/MDSPAN-A-Deep-Dive-Spanning-C-Kokkos-SYCL.pdf) by Nevin Liber
