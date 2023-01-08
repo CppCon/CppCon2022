@@ -71,6 +71,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [What I Learned From Sockets - Applying the Unix Readiness Model When Composing Concurrent Operations in C++](Presentations/what_i_learned_from_sockets.pdf) by Filipp Gelman
 - [What’s New for You in Visual Studio Code - Clang-Tidy, makefile, CMake, GitHub and More](Presentations/VSCode-session-CppCon2022-upload.pdf) by Marian Luparu & Sinem Akinci
 - [Your Compiler Understands It, But Does Anyone Else - 10 Tips for Cleaner C++ 20 Code](Presentations/Your-Compiler-Understands-It-But-Does-Anyone-Else.pdf) by David Sackstein
+- [Optimization Remarks - Helping the Compiler Generate Better Code](Presentations/Optimization-Remarks.pdf) by Ofek Shilon
 
 ## Lightning Talks
 
