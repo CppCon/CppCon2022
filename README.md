@@ -49,6 +49,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [Managing External API’s in Enterprise systems](Presentations/ManagingApis3c.pdf) by Pete Muldoon
 - [MDSPAN - A Deep Dive Spanning C++, Kokkos & SYCL](Presentations/MDSPAN-A-Deep-Dive-Spanning-C-Kokkos-SYCL.pdf) by Nevin Liber
 - [Modern C++ to Impress Your Embedded Dev Friends](Presentations/Cppcon2022-slides-Bush.pdf) by Steve Bush
+- [Optimization Remarks - Helping the Compiler Generate Better Code](Presentations/Optimization-Remarks.pdf) by Ofek Shilon
 - [Optimizing Binary Search](Presentations/binary-search-cppcon.pdf) by Sergey Slotin
 - [Our Adventures Building a New C++ Package Manager - Reinventing All The Wheels](Presentations/DamienBuhl-CppCon2022.pdf) by Damien Buhl
 - [Parallelism Safety-Critical Guidelines for C++](Presentations/cppcon-2022-safety-guidelines-for-C-parallel-and-concurrency-1.pdf) by Michael Wong, Andreas  Weis, Ilya Burylov & Christof Meerwald
@@ -71,7 +72,7 @@ and code from [CppCon 2022](http://cppcon.org).
 - [What I Learned From Sockets - Applying the Unix Readiness Model When Composing Concurrent Operations in C++](Presentations/what_i_learned_from_sockets.pdf) by Filipp Gelman
 - [What’s New for You in Visual Studio Code - Clang-Tidy, makefile, CMake, GitHub and More](Presentations/VSCode-session-CppCon2022-upload.pdf) by Marian Luparu & Sinem Akinci
 - [Your Compiler Understands It, But Does Anyone Else - 10 Tips for Cleaner C++ 20 Code](Presentations/Your-Compiler-Understands-It-But-Does-Anyone-Else.pdf) by David Sackstein
-- [Optimization Remarks - Helping the Compiler Generate Better Code](Presentations/Optimization-Remarks.pdf) by Ofek Shilon
+
 
 ## Lightning Talks
 
