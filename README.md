@@ -21,7 +21,8 @@ and code from [CppCon 2022](http://cppcon.org).
 - [Back to Basics - Templates](Presentations/CTemplates_cppcon_220918.pdf) by Nicolai Josuttis
 - [Back to Basics - Testing](Presentations/Purging-Undefined-Behavior-and-Intel-Assumptions-in-a-Legacy-Codebase-CPPCon2022-Roth-Michaels.pdf) by Amir Kirsh
 - [Back to Basics - Value Semantics](Presentations/Back-to-Basics-Value-Semantics-Klaus-Iglberger-CppCon-2022.pdf) by Klaus Iglberger
-- [Breaking Dependencies - Type Erasure - The Implementation Details](Presentations/Breaking-Dependencies-The-Visitor-Design-Pattern-Klaus-Iglberger-CppCon-2022.pdf) by Klaus Iglberger
+- [Breaking Dependencies - Type Erasure - The Implementation Details](Presentations/Type-Erasure-The-Implementation-Details-Klaus-Iglberger-CppCon-2022.pdf) by Klaus Iglberger
+- [Breaking Dependencies - The Visitor Design Pattern](Presentations/Breaking-Dependencies-The-Visitor-Design-Pattern-Klaus-Iglberger-CppCon-2022.pdf) by Klaus Iglberger
 - [C++ Coding with Neovim](Presentations/Prateek-Raman-CppCon2022-cpp-coding-with-neovim-20220913_1940.pdf) by Prateek Raman
 - [C++ Dependencies Don’t Have To Be Painful - Why You Should Use a Package Manager](Presentations/C-Dependencies-Dont-Have-To-Be-Painful-Why-You-Should-Use-a-Package-Manager.pdf) by Augustin Popa
 - [C++ for Enterprise Applications](Presentations/C-for-Enterprise-Applications.pdf) by Vincent Lextrait
